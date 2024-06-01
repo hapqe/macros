@@ -3,7 +3,7 @@
 ## Setup: 
 1. Get your API-Key on https://fdc.nal.usda.gov/api-guide.html
 2. use `macros set-api-key <KEY>`
-3. `Usage: macros <COMMAND>
+3. ```Usage: macros <COMMAND>
     Commands:
     food         get the macros for a food (e.g. 100g of chicken breast)
     file         
@@ -12,4 +12,4 @@
 
     Options:
     -h, --help     Print help
-    -V, --version  Print version`
+    -V, --version  Print version```
