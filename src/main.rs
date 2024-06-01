@@ -6,7 +6,6 @@ use serde::{Deserialize, Serialize};
 use std::cmp::Ordering::{self};
 use std::error::Error;
 
-const API_KEY: &str = "uwLUcab8yUVedyyxI3tdxEvodNjZaCnF89Tipih8";
 const SEARCH_URL: &str = "https://api.nal.usda.gov/fdc/v1/foods/search";
 const BASIC_NUTRIENTS: [&str; 5] = [
     "Energy",
