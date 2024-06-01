@@ -1,6 +1,6 @@
-## A CLI tool for calculating a foods macros ###
+# A CLI tool for calculating a foods macros
 
-# Setup: 
+## Setup: 
 1. Get your API-Key on https://fdc.nal.usda.gov/api-guide.html
 2. use `macros set-api-key <KEY>`
 3. Usage: macros <COMMAND>
